@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/Francis1408">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francis1408&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francis1408&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
 </div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=MyQuote&author=eu)](https://github.com/piyushsuthar/github-readme-quotes)
