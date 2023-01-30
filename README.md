@@ -20,5 +20,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francis1408&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francis1408&layout=compact&langs_count=16&theme=algolia"/> 
 </div>
+  
+ ![](https://geps.dev/progress/10)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=MyQuote&author=eu)](https://github.com/piyushsuthar/github-readme-quotes)
