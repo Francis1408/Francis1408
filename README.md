@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-
-\fancyhead[CO,CE]{Your Document Header}
+> Blockquote
