@@ -21,6 +21,11 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francis1408&layout=compact&langs_count=16&theme=algolia"/> 
 </div>
   
- ![img](https://geps.dev/progress/10)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cpp-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+    
+</div>
+ 
+
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=MyQuote&author=eu)](https://github.com/piyushsuthar/github-readme-quotes)
