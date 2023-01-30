@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\fancyhead[CO,CE]{Your Document Header}
