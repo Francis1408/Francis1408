@@ -23,9 +23,7 @@ Here are some ideas to get you started:
   
 <div style="display: block">
   <img align="center" alt="Cpp-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <p> teste1 </p> <p> teste2 </p>
-    
+  <img align="center" alt="C-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">   
 </div>
  
 
