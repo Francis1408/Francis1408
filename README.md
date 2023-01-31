@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </style>
 -->
  
-<div id="outer">
+<div id="outer" style="color:green">
   <div id="inner"> 
     <img align="center" alt="Cpp-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
     <img align= "center" alt="Bar_1" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_1.png">  
