@@ -75,7 +75,13 @@ Here are some ideas to get you started:
     6 Months </p>
   </div>
 </div>
- 
+
+---
+## Reach me :phone:
+
+<div>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=franciscoabreu1408@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=MyQuote&author=eu)](https://github.com/piyushsuthar/github-readme-quotes)
