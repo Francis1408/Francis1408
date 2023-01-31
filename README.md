@@ -80,7 +80,10 @@ Here are some ideas to get you started:
 ## Reach me :phone:
 
 <div>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=franciscoabreu1408@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:franciscoabreu1408@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/francisco-abreu-gon%C3%A7alves-397693198/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.twitch.tv/frank14082000" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCG4dOire8Y3xhyO4DIyBugg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
 
