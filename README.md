@@ -96,5 +96,8 @@ Here are some ideas to get you started:
   <a href="https://steamcommunity.com/profiles/76561198192336479/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
+---
+![Snake](https://github.com/Francis1408/Francis1408/blob/output/github-contribution-grid-snake.svg)
 
+---
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Change_Is_The_Essencial_Process_Of_All_Existence&type=horizontal&theme=algolia&author=Spock)](https://github.com/piyushsuthar/github-readme-quotes)
