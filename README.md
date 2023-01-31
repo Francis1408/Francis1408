@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 </div>
 
 ---
-## Experiences :computer: 
 
+## Experiences :computer: 
+<!--
 <style>
   #outer{
     display: block;
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
   }
 
 </style>
+-->
  
 <div id="outer">
   <div id="inner"> 
@@ -61,4 +63,3 @@ Here are some ideas to get you started:
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=MyQuote&author=eu)](https://github.com/piyushsuthar/github-readme-quotes)
-[label](https://www.youtube.com/watch?v%3DD_2bluVPsb0)
