@@ -21,15 +21,21 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francis1408&layout=compact&langs_count=16&theme=algolia"/> 
 </div>
 
-# Experiences :computer:  
-=====
+---
+## Experiences :computer: 
+ 
 <div style="display: block">
   <div style="display: inline-block"> 
     <p> <img align="center" alt="Cpp-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <img align= "center" alt="Bar_1" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_1.png">  2 Years </p>
   </div>
-  <br>
   <div style="display: inline-block">
     <p> <img align="center" alt="C-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img align= "center" alt="Bar_1" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_1.png"> 2 Years </p>
+  </div>
+  <div style="display: inline-block">
+    <p> <img align="center" alt="Python-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align= "center" alt="Bar_2" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_2.png"> 1 Year </p>
+  </div>
+  <div style="display: inline-block">
+    <p> <img align="center" alt="Verilog-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg"> <img align= "center" alt="Bar_2" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_2.png"> 1 Year </p>
   </div>
 </div>
  
