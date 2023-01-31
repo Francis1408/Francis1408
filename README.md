@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Francis1408">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francis1408&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francis1408&layout=compact&langs_count=16&theme=algolia"/> 
+  </a>
 </div>
 
 ---
@@ -79,7 +80,6 @@ Here are some ideas to get you started:
 ---
 ## Reach me :phone:
 
-<div>
   <a href="mailto:franciscoabreu1408@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/francisco-abreu-gon%C3%A7alves-397693198/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.twitch.tv/frank14082000" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -88,7 +88,6 @@ Here are some ideas to get you started:
   <a href="https://open.spotify.com/user/sir.dolan" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   </div>
   <a href="https://steamcommunity.com/profiles/76561198192336479/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-</div>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=MyQuote&author=eu)](https://github.com/piyushsuthar/github-readme-quotes)
