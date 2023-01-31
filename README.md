@@ -1,14 +1,14 @@
-# Francisco Abreu Gonçalves
+# Welcome! :wave:
 
 ---
 ## About me :mag_right: 
 
-Hello there! My name is Francisco, pleasure to meet y'all! I'm a 22 years old undergrad student majoring Computer Engineering at the Centro Federal de Educação Tecnológica de Minas Gerais
+Hello there! My name is Francisco, pleasure to meet y'all! I'm a 22 years old undergrad student majoring Computer Engineering at the [Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br/)
 (CEFET/MG). Despite being in my junior year, I am a guy that hasn't decided a specific path in my professional area, considering the fact that I'm always down to learn new things! To see more about my projects that I've done and currently working on, check out my repository and social medias!
 
 
 - 🌱 I’m currently learning JavaScript, TypeScript
-- 🔭 I’m currently working on CodeLife Project, Salamanca Project
+- 🔭 I’m currently working on [CodeLife Project](https://github.com/CodeLifeOrg/codelife), [Salamanca Project](https://github.com/Pollen-Catcher/salamanca-frontend)
 <!--
 **Francis1408/Francis1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -97,4 +97,4 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote="Change-Is-The-Essencial-Process-Of-All-Existence"&type=horizontal&theme=algolia&author=Spock)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Change_Is_The_Essencial_Process_Of_All_Existence&type=horizontal&theme=algolia&author=Spock)](https://github.com/piyushsuthar/github-readme-quotes)
