@@ -50,12 +50,12 @@ Here are some ideas to get you started:
   </div>
   <div id="inner">
     <img align="center" alt="Python-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-    <img align= "center" alt="Bar_2" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_2.png"> 
+    <img align= "center" alt="Bar_2" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_3.png"> 
     <p> 1 Year </p>
   </div>
   <div id="inner">
-    <img align="center" alt="Verilog-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg"> 
-    <img align= "center" alt="Bar_2" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_2.png"> 
+    <img align="center" alt="Verilog-icon" height="40" width="50" src="https://github.com/Francis1408/Francis1408/blob/main/img/verilog.png"> 
+    <img align= "center" alt="Bar_2" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_3.png"> 
     <p> 1 Year </p>
   </div>
 </div>
