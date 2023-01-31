@@ -23,20 +23,38 @@ Here are some ideas to get you started:
 
 ---
 ## Experiences :computer: 
+
+<style>
+  #outer{
+    display: block;
+  }
+  #inner{
+    display: inline-block
+  }
+
+</style>
  
-<div style="display: block">
-  <div style="display: inline-block"> 
-    <p> <img align="center" alt="Cpp-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <img align= "center" alt="Bar_1" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_1.png">  2 Years </p>
-    <p style="color:blue"> C++ </p>
+<div id="outer">
+  <div id="inner"> 
+    <img align="center" alt="Cpp-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
+    <img align= "center" alt="Bar_1" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_1.png">  
+    <p> 2 Years </p>
+   
   </div>
-  <div style="display: inline-block">
-    <p> <img align="center" alt="C-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img align= "center" alt="Bar_1" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_1.png"> 2 Years </p>
+  <div id="inner">
+    <img align="center" alt="C-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
+    <img align= "center" alt="Bar_1" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_1.png"> 
+    <p> 2 Years </p>
   </div>
-  <div style="display: inline-block">
-    <p> <img align="center" alt="Python-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align= "center" alt="Bar_2" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_2.png"> 1 Year </p>
+  <div id="inner">
+    <img align="center" alt="Python-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+    <img align= "center" alt="Bar_2" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_2.png"> 
+    <p> 1 Year </p>
   </div>
-  <div style="display: inline-block">
-    <p> <img align="center" alt="Verilog-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg"> <img align= "center" alt="Bar_2" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_2.png"> 1 Year </p>
+  <div id="inner">
+    <img align="center" alt="Verilog-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg"> 
+    <img align= "center" alt="Bar_2" height="30" width="200" src="https://github.com/Francis1408/Francis1408/blob/main/img/bar_2.png"> 
+    <p> 1 Year </p>
   </div>
 </div>
  
