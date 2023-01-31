@@ -1,12 +1,20 @@
-### Hi there 👋
+# Francisco Abreu Gonçalves
 
+---
+## About me :mag_right: 
+
+Hello there! My name is Francisco, pleasure to meet y'all! I'm a 22 years old undergrad student majoring Computer Engineering at the Centro Federal de Educação Tecnológica de Minas Gerais
+(CEFET/MG). Despite being in my junior year, I am a guy that hasn't decided a specific path in my professional area, considering the fact that I'm always down to learn new things! To see more about my projects that I've done and currently working on, check out my repository and social medias!
+
+
+- 🌱 I’m currently learning JavaScript, TypeScript
+- 🔭 I’m currently working on CodeLife Project, Salamanca Project
 <!--
 **Francis1408/Francis1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -23,7 +31,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 ## Experience :computer: 
 <!--
 <style>
@@ -78,16 +85,16 @@ Here are some ideas to get you started:
 </div>
 
 ---
-## Reach me :phone:
+## Reach me 📫 
 
+<div style=>
   <a href="mailto:franciscoabreu1408@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/francisco-abreu-gon%C3%A7alves-397693198/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.twitch.tv/frank14082000" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCG4dOire8Y3xhyO4DIyBugg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  </div>
   <a href="https://open.spotify.com/user/sir.dolan" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  </div>
   <a href="https://steamcommunity.com/profiles/76561198192336479/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+</div>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=MyQuote&author=eu)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Change is the essencial process of all existence&author=Spock)](https://github.com/piyushsuthar/github-readme-quotes)
