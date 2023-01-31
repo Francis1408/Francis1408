@@ -97,4 +97,4 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Change_is_the_essencial_process_of_all_existencetype=horizontal&theme=algolia&author=Spock)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Change-is-the-essencial-process-of-all-existence&type=horizontal&theme=algolia&author=Spock)](https://github.com/piyushsuthar/github-readme-quotes)
