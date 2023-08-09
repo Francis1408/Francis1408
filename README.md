@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/Francis1408">
-  <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francis1408&layout=compact&langs_count=16&theme=algolia"/>
   <img height="180em" src=""/> 
   </a>
 </div>
