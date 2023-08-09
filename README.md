@@ -3,8 +3,8 @@
 ---
 ## About me :mag_right: 
 
-Hello there! My name is Francisco, pleasure to meet y'all! I'm a 22 years old undergrad student majoring Computer Engineering at the [Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br/)
-(CEFET/MG). Despite being in my junior year, I am a guy that hasn't decided a specific path in my professional area, considering the fact that I'm always down to learn new things! To see more about my projects that I've done and currently working on, check out my repository and social medias!
+Hello there! My name is Francisco, a pleasure to meet y'all! I'm a 22 years old undergrad student majoring Computer Engineering at the [Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br/)
+(CEFET/MG). Despite being in my junior year, I haven't decided on a specific path in my professional area, considering I'm always down to learn new things! To see more about the projects that I've done and currently working on, check out my repository and social media!
 
 
 - 🌱 I’m currently learning JavaScript, TypeScript
