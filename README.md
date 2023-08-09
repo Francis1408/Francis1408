@@ -99,5 +99,3 @@ Here are some ideas to get you started:
 ---
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Change_Is_The_Essencial_Process_Of_All_Existence&type=horizontal&theme=algolia&author=Spock)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
-![Snake animation](https://github.com/Francis1408/Francis1408/blob/output/github-contribution-grid-snake.svg)
