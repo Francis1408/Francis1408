@@ -3,11 +3,11 @@
 ---
 ## About me :mag_right: 
 
-Hello there! My name is Francisco, a pleasure to meet y'all! I'm a 22 years old undergrad student majoring Computer Engineering at the [Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br/)
+Hello there! My name is Francisco, a pleasure to meet y'all! I'm a 23 years old undergrad student majoring Computer Engineering at the [Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br/)
 (CEFET/MG). Despite being in my junior year, I haven't decided on a specific path in my professional area, considering I'm always down to learn new things! To see more about the projects that I've done and currently working on, check out my repository and social media!
 
 
-- 🌱 I’m currently learning JavaScript, TypeScript
+- 🌱 I’m currently learning Dart, Flutter
 - 🔭 I’m currently working on [CodeLife Project](https://github.com/CodeLifeOrg/codelife), [Salamanca Project](https://github.com/Pollen-Catcher/salamanca-frontend)
 <!--
 **Francis1408/Francis1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
