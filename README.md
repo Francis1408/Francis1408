@@ -46,35 +46,15 @@ Here are some ideas to get you started:
  
 <div id="outer" style="color:green">
   <div id="inner"> 
-    <p>
-    <img align="center" alt="Cpp-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    </p>
-   
-  </div>
-  <div id="inner">
-    <p>
-    <img align="center" alt="C-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
-   </p>
-  </div>
-  <div id="inner">
-    <p>
-    <img align="center" alt="Python-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-    </p>
-  </div>
-  <div id="inner">
-    <p>
-    <img align="center" alt="Verilog-icon" height="40" width="50" src="https://github.com/Francis1408/Francis1408/blob/main/img/verilog.png">  </p>
-  </div>
-  <div id="inner">
-    <p>
-    <img align="center" alt="JS-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
-    </p>
-  </div>
-  <div id="inner">
-    <p>
-    <img align="center" alt="SQL-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
-    </p>
-  </div>
+    <img  alt="Cpp-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img  alt="C-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
+    <img  alt="JS-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+    <img  alt="TS-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img  alt="Python-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+    <img  alt="Verilog-icon" height="40" width="50" src="https://github.com/Francis1408/Francis1408/blob/main/img/verilog.png">  </p>
+    <img  alt="SQL-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
+    <img  alt="Flutter-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img  alt="OpenGL-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 </div>
 
 ---
