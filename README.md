@@ -3,11 +3,11 @@
 ---
 ## About me :mag_right: 
 
-Hello there! My name is Francisco, a pleasure to meet y'all! I'm a 23 years old undergrad student majoring in Computer Engineering at the [Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br/)
-(CEFET/MG). I'm currently taking an exchange year in Germany, where I'm studying at the [Karlsruhe Hochschule - University of Applied Sciences](https://www.h-ka.de/) and working as an intern in the company [realVitual](https://realvirtual.io/). To see more about the projects I've done and currently work on, check out my repository!
+Hello there! My name is Francisco, a pleasure to meet y'all! I'm a 24 years old undergrad student majoring in Computer Engineering at the [Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br/)
+(CEFET/MG). I also studied and worked Germany at the [Karlsruhe Hochschule - University of Applied Sciences](https://www.h-ka.de/). To see more about the projects I've done and currently work on, check out my repository!
 
 
-- 🌱 I’m currently learning Unity, C#
+- 🌱 I’m currently learning Unity, Computer Graphics and C#
 
 <!--
 **Francis1408/Francis1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,15 +46,15 @@ Here are some ideas to get you started:
  
 <div id="outer" style="color:green">
   <div id="inner"> 
+    <img  alt="Unity-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+    <img  alt="Csharp-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"> 
+    <img  alt="Blender-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"> 
     <img  alt="Cpp-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img  alt="C-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
+    <img  alt="OpenGL-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
     <img  alt="JS-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
-    <img  alt="TS-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img  alt="Python-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-    <img  alt="Verilog-icon" height="40" width="50" src="https://github.com/Francis1408/Francis1408/blob/main/img/verilog.png">  </p>
     <img  alt="SQL-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
     <img  alt="Flutter-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    <img  alt="OpenGL-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 </div>
 
 ---
